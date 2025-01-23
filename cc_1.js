@@ -17,3 +17,6 @@ console.log(accountBalance + 1);
 console.log(accountBalance - 1);
 console.log(accountBalance * 2);
 console.log(accountBalance / 2);
+
+let customerName = "Franklin";
+console.log("Welcome to our site, " + customerName);
