@@ -20,3 +20,10 @@ console.log(accountBalance / 2);
 
 let customerName = "Franklin";
 console.log("Welcome to our site, " + customerName);
+
+let isLoggedIn = true;
+if(isLoggedIn === true){
+    console.log("User is logged in!");
+}else{
+    console.log("User is NOT logged in!");
+}
