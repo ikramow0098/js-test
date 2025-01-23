@@ -11,3 +11,9 @@ var isAvailable = false;
 console.log(productName, typeof(productName));
 console.log(productPrice, typeof(productPrice));
 console.log(isAvailable, typeof(isAvailable));
+
+let accountBalance = 100;
+console.log(accountBalance + 1);
+console.log(accountBalance - 1);
+console.log(accountBalance * 2);
+console.log(accountBalance / 2);
